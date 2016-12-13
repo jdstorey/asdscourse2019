@@ -9,7 +9,7 @@ permalink:        pretty
 title:            SML 201
 tagline:          "SML 201 | Princeton University"
 description:      "<a href='https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=013596&term=1164' target='_blank'>Introduction to Data Science</a> at <a href='http://www.princeton.edu' target='_blank'>Princeton University</a>" 
-url:              http://sml201.github.io
+url:              http://jdstorey.github.io/asds/
 baseurl:          /
 
 author:
