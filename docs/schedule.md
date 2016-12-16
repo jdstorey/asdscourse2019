@@ -11,18 +11,18 @@ title: Schedule
 
 |  Week  | Topic(s) | Reading |
 | :----: | -------- | ------: |
-| 1 | tbd | tbd |
-| 2 | tbd | tbd |
-| 3 | tbd | tbd |
-| 4 | tbd | tbd |
-| 5 | tbd | tbd |
-| 6 | tbd | tbd |
-| 7 | tbd | tbd |
-| 8 | tbd | tbd |
-| 9 | tbd | tbd |
-| 10 | tbd | tbd |
-| 11 | tbd | tbd |
-| 12 | tbd | tbd |
+| 1 | Introduction | tbd |
+| 2 | Tidy Data | tbd |
+| 3 | Visualization | tbd |
+| 4 | Likelihood | tbd |
+| 5 | Frequentist Inference | tbd |
+| 6 | Bayesian Inference | tbd |
+| 7 | EM Algorithm | tbd |
+| 8 | Statistical Modeling | tbd |
+| 9 | Data Resampling | tbd |
+| 10 | PCA and Latent Variable Models | tbd |
+| 11 | Simultaneous Inference | tbd |
+| 12 | Regularization and Shrinkage | tbd |
 
 ## Text book abbreviations used above
 
