@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            SML 201
-tagline:          "SML 201 | Princeton University"
-description:      "<a href='https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=013596&term=1164' target='_blank'>Introduction to Data Science</a> at <a href='http://www.princeton.edu' target='_blank'>Princeton University</a>" 
+title:            Foundations of Applied Statistics and Data Science with Applications in Biology
+tagline:          "QCB 508 | Princeton University"
+description:      "<a href='https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=014087&term=1174' target='_blank'>Foundations of Applied Statistics and Data Science with Applications in Biology</a> at <a href='http://www.princeton.edu' target='_blank'>Princeton University</a>" 
 url:              https://jdstorey.github.io
 baseurl:          /asds
 
