@@ -5,8 +5,6 @@ title: Resources
 
 ---
 
-## Tutorials and Documentation
-
 These web sites may provide useful additional information, background, or practice for you.
 
 - [R Markdown](http://rmarkdown.rstudio.com), but [first read the basics of markdown](http://rmarkdown.rstudio.com/authoring_basics.html)
