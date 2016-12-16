@@ -187,6 +187,15 @@ a.sidebar-nav-item:focus {
   color: #ec7208;
 }
 
+/* Black */
+.theme-base-black .sidebar {
+  background-color: #000000;
+}
+.theme-base-black .content a,
+.theme-base-black .related-posts li a:hover {
+  color: #ff8c00;
+}
+
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
