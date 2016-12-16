@@ -5,17 +5,15 @@ title: Books
 
 ---
 
-We will be using the following books in this course.  *They are all available for free* -- although we note some of the authors do give readers an opportunity to pay for the books.
+We will be using the following books in this course.  They are all available for free, but note that some require a Princeton account to obtain them for free.
 
-[The Art of Data Science](https://leanpub.com/artofdatascience), by Peng and Matsui
+[All of Statistics, by Wasserman](https://pulsearch.princeton.edu/catalog/8865289)
 
-[The Elements of Data Analytic Style](https://leanpub.com/datastyle), by Jeff Leek
+[All of Nonparametric Statistics, by Wasserman](https://pulsearch.princeton.edu/catalog/6402948)
 
-[Exploratory Data Analysis with R](https://leanpub.com/exdata), by Roger Peng
+[The Elements of Statistical Learning, by Hastie, Tibshirani and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
-[OpenIntro Statistics](https://www.openintro.org/stat/), by Diez, Barr, and Centinkaya-Rundel
+[R for Data Science, by Wickham and Grolemund](http://r4ds.had.co.nz)
 
-[R Programming for Data Science](https://leanpub.com/rprogramming), by Roger Peng
 
-[The Undergraduate Guide to R](http://genomine.org/papers/undergradguidetoR.pdf), by Trevor Martin
 
