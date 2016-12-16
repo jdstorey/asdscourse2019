@@ -30,6 +30,7 @@ title: Schedule
 | ---- | ---------- |
 AOS | [All of Statistics](https://pulsearch.princeton.edu/catalog/8865289)
 NPS | [All of Nonparametric Statistics](https://pulsearch.princeton.edu/catalog/6402948)
+DALS | [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences)
 ESL | [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 R4DS | [R for Data Science](http://r4ds.had.co.nz)
 
