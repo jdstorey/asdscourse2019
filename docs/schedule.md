@@ -34,3 +34,4 @@ DALS | [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisfor
 ESL | [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 R4DS | [R for Data Science](http://r4ds.had.co.nz)
 
+
