@@ -9,7 +9,7 @@ Contact information, office hours, and office locations for the instructors can 
 
 ### Instructor
 
-- John Storey
+- [John Storey](https://jdstorey.github.io)
 
 ### Assistants-in-Instruction (AIs)
 
