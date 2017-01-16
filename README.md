@@ -4,7 +4,7 @@
 
 This is the future home of QCB 408 / QCB 508 at Princeton University.
 
-https://jdstorey.github.io/asds/
+https://jdstorey.github.io/asdscourse/
 
 [QCB 408](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=014039&term=1174)
 
