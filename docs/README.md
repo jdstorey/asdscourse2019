@@ -1,5 +1,5 @@
-# sml201.github.io
-SML 201 Introduction to Data Science
+# jdstorey.github.io/asdscourse
+QCB 408 / 508 Fundamentals of Applied Statistics and Data Science with Applications in Biology
 
-See [sml201.github.io](http://sml201.github.io).
+See [jdstorey.github.io/asdscourse](http://jdstorey.github.io/asdscourse).
 
