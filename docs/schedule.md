@@ -14,15 +14,15 @@ title: Schedule
 | 1 | Introduction | tbd |
 | 2 | Tidy Data | tbd |
 | 3 | Visualization | tbd |
-| 4 | Likelihood Inference | tbd |
-| 5 | Bayesian Inference | tbd |
-| 6 | EM Algorithm | tbd |
-| 7 | Statistical Modeling | tbd |
-| 8 | Statistical Modeling | tbd |
-| 9 | Data Resampling | tbd |
-| 10 | PCA and Latent Variable Models | tbd |
-| 11 | Simultaneous Inference | tbd |
-| 12 | Regularization and Shrinkage | tbd |
+| 4 | Random Variables and Likelihood | tbd |
+| 5 | Frequentist Inference | tbd |
+| 6 | Bayesian Inference | tbd |
+| 7 | EM Algorithm | tbd |
+| 8 | Data Resampling | tbd |
+| 9 | Statistical Modeling | tbd |
+| 10 | Statistical Modeling | tbd |
+| 11 | PCA and Latent Variable Models | tbd |
+| 12 | Simultaneous Inference | tbd |
 
 ## Text book abbreviations used above
 

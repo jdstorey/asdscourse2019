@@ -11,6 +11,7 @@ Contact information, office hours, and office locations for the instructors can 
 
 - [John Storey](https://jdstorey.github.io)
 
-### Assistants-in-Instruction (AIs)
+### Assistant-in-Instruction (AI)
 
-- TBD
+- [Wei Hao](https://whao89.github.io)
+
