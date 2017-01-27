@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            QCB 508
 tagline:          "QCB 508 | Princeton University"
-description:      "<a href='https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=014087&term=1174' target='_blank'>Foundations of Applied Statistics and Data Science with Applications in Biology</a> at <a href='http://www.princeton.edu' target='_blank'>Princeton University</a>" 
+description:      "<a href='https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=014087&term=1174' target='_blank'>Foundations of Applied Statistics and Data Science with Applications in Biology</a>" 
 url:              https://jdstorey.github.io
 baseurl:          /asdscourse
 

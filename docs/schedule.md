@@ -13,7 +13,7 @@ title: Schedule
 | :----: | -------- | ------: |
 | 1 | Introduction | tbd |
 | 2 | Tidy Data | tbd |
-| 3 | Visualization | tbd |
+| 3 | Exploratory Data Analysis | tbd |
 | 4 | Random Variables and Likelihood | tbd |
 | 5 | Frequentist Inference | tbd |
 | 6 | Bayesian Inference | tbd |
