@@ -11,18 +11,18 @@ title: Schedule
 
 |  Week  | Topic(s) | Reading |
 | :----: | -------- | ------: |
-| 1 | Introduction | tbd |
-| 2 | Tidy Data | tbd |
-| 3 | Exploratory Data Analysis | tbd |
-| 4 | Random Variables and Likelihood | tbd |
-| 5 | Frequentist Inference | tbd |
-| 6 | Bayesian Inference | tbd |
-| 7 | EM Algorithm | tbd |
-| 8 | Data Resampling | tbd |
-| 9 | Statistical Modeling | tbd |
-| 10 | Statistical Modeling | tbd |
-| 11 | PCA and Latent Variable Models | tbd |
-| 12 | Simultaneous Inference | tbd |
+| 1 | Introduction | R4DS Ch. 1 <br> DALS Ch. "Getting Started" |
+| 2 | Tidy Data | R4DS Ch. 9-21 |
+| 3 | Exploratory Data Analysis | R4DS Ch. 2-8 <br> DALS Ch. "Exploratory Data Analysis" |
+| 4 | Random Variables and Likelihood | AOS Ch. 2-3, 9.3.13 |
+| 5 | Frequentist Inference | AOS Ch. 9-10 |
+| 6 | Bayesian Inference | AOS Ch. 11 |
+| 7 | EM Algorithm | ESL Ch. 8.5 |
+| 8 | Data Resampling | NPS Ch. 2-3 |
+| 9 | Statistical Modeling | AOS Ch. 13 <br> DALS Ch. "Linear Models" |
+| 10 | Statistical Modeling | ESL Ch. 5.1-5.6, 7, 9.1 |
+| 11 | PCA and Latent Variable Models | DALS Ch. "Distance and Dimension Reduction" <br> DALS Ch. "Basic ML: Clustering" <br> [Leek and Storey (2007)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161) |
+| 12 | Simultaneous Inference | AOS Ch. 12.7 <br> DALS Ch. "Inference for HD Data" <br> [Sitgler (1990)](http://projecteuclid.org/euclid.ss/1177012274) <br> [Storey and Tibshirani (2003)](http://www.pnas.org/content/100/16/9440.full) |
 
 ## Text book abbreviations used above
 
@@ -31,7 +31,14 @@ title: Schedule
 AOS | [All of Statistics](https://pulsearch.princeton.edu/catalog/8865289)
 NPS | [All of Nonparametric Statistics](https://pulsearch.princeton.edu/catalog/6402948)
 DALS | [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences)
-ESL | [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+ESL | [The Elements of Statistical Learning, 2nd Ed.](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 R4DS | [R for Data Science](http://r4ds.had.co.nz)
+
+## Notes
+
+- AOS and NPS chapter numbers refer to those in the PDF files available through Princeton University Library.
+- DALS chapter titles refer to those from the [Leanpub](https://leanpub.com/dataanalysisforthelifesciences) edition.
+- Please obtain the most recent version of ESL from the authors' [web site](http://statweb.stanford.edu/~tibs/ElemStatLearn/).
+- R4DS chapter numbers refer to those at <http://r4ds.had.co.nz>, *NOT* the printed book chapter numbers.
 
 
