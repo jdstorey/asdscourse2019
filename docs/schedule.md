@@ -20,7 +20,7 @@ title: Schedule
 | 7 | EM Algorithm | ESL Ch. 8.5 |
 | 8 | Data Resampling | NPS Ch. 2-3 |
 | 9 | Statistical Modeling | AOS Ch. 13 <br> DALS Ch. "Linear Models" |
-| 10 | Statistical Modeling | ESL Ch. 5.1-5.6, 7, 9.1 |
+| 10 | Statistical Modeling | ESL Ch. 5.1-5.6, 7, 9.1 <br> NPS Ch. 4.1-4.3, 5.1-5.5|
 | 11 | Simultaneous Inference | AOS Ch. 12.7 <br> DALS Ch. "Inference for HD Data" <br> [Sitgler (1990)](http://projecteuclid.org/euclid.ss/1177012274) <br> [Storey and Tibshirani (2003)](http://www.pnas.org/content/100/16/9440.full) |
 | 12 | Dimension Reduction and Latent Variable Models | DALS Ch. "Distance and Dimension Reduction" <br> DALS Ch. "Basic ML: Clustering" <br> [Leek and Storey (2007)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161) |
 
