@@ -22,4 +22,4 @@ Week | HTML Slides | Notes | Source
 12 | [week12.html]() | [week12_notes.pdf]() | [lectures/week12]()
 
 
-The materials from the lecture slides will also be included in book format at https://jdstorey.github.io/asdsbook/.
+The materials from the lecture slides will also be included in book format at [https://jdstorey.github.io/asdsbook/](https://jdstorey.github.io/asdsbook/).
