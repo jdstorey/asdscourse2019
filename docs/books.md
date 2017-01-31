@@ -17,5 +17,5 @@ We will be using the following books in this course.  They are all available for
 
 [R for Data Science, by Wickham and Grolemund](http://r4ds.had.co.nz) [(source code)](https://github.com/hadley/r4ds)
 
-
+In addition to these text books, we will also be transferring content from the lecture slides into a book format at https://jdstorey.github.io/asdsbook/, called [Foundations of Applied Statistics and Data Science for Researchers](https://jdstorey.github.io/asdsbook/).
 

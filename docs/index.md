@@ -10,6 +10,6 @@ This course establishes a foundation in applied statistics and data science for 
 
 A detailed syllabus, which includes grading and administrative detials, can be found on the course [Blackboard site](https://blackboard.princeton.edu/webapps/pu-courseredirect-bb_bb60/find.jsp?course_id=QCB508_S2017).  Students enrolled in [QCB 408](https://blackboard.princeton.edu/webapps/pu-courseredirect-bb_bb60/find.jsp?course_id=QCB408_S2017) will be given access to the QCB 508 Blackboard site.
 
-This web site contains links and information on the [text books](./books/) and [software](./software/) that we will use, [course materials](./course_materials/), the [schedule](./schedule/), and additional [resources](./resources/) you may find useful. 
+This web site contains links and information on the [text books](./books/) and [software](./software/) that we will use, [lecture materials](./lectures/), the [schedule](./schedule/), and [web resources](./resources/). 
 
 We will also be posting the [lecture notes](https://github.com/jdstorey/asdscourse/tree/master/lectures).  The primary content of this course is under version control and openly available at our [GitHub](https://github.com/jdstorey/asdscourse) site.

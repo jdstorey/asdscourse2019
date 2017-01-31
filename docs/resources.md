@@ -5,6 +5,20 @@ title: Resources
 
 ---
 
+## Course Web Sites
+
+- [GitHub](https://github.com/jdstorey/asds)
+
+- [Lecture Slides Source](https://github.com/jdstorey/asds/tree/master/lectures)
+
+- [Blackboard](https://blackboard.princeton.edu/webapps/pu-courseredirect-bb_bb60/find.jsp?course_id=QCB508_S2017)
+
+- [Piazza](https://piazza.com/)
+
+---
+
+## Supplementary Resources
+
 These web sites may provide useful additional information, background, or practice for you.
 
 - [R Markdown](http://rmarkdown.rstudio.com), but [first read the basics of markdown](http://rmarkdown.rstudio.com/authoring_basics.html)
