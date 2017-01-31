@@ -5,9 +5,7 @@ title: Software
 
 ---
 
-This course will use R and RStudio.
-
-## Software Installations
+This course will use R, RStudio, and LaTeX.
 
 - R 
   - [Macs](https://cran.r-project.org/bin/macosx/)
