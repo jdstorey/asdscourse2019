@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Lecture Materials
+title: Lectures
 ---
+
+We are making the lecture slides (`*.html`), notes for you to bring to class to annotate (`*.pdf`), and the sources code (`lectures/week*`) available.
 
 Week | HTML Slides | Notes | Source
 -----|-------------| ----- | ----------
