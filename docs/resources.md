@@ -27,6 +27,10 @@ These web sites may provide useful additional information, background, or practi
 
 - [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/)
 
+- [R Markdown for Class Reports](http://www.stat.cmu.edu/~cshalizi/rmarkdown/) ([Math in R Markdown](http://www.stat.cmu.edu/~cshalizi/rmarkdown/#math-in-r-markdown))
+
+- [Intro to LaTeX](http://artofproblemsolving.com/wiki/index.php?title=LaTeX)
+
 - [JHU/Coursera Data Science Specialization](http://jhudatascience.org/education/)
 
 - [`ggplot2` Documentation](http://ggplot2.org)
