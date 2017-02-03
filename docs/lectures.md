@@ -3,7 +3,7 @@ layout: page
 title: Lectures
 ---
 
-We are making the lecture slides (`*.html`), notes for you to bring to class to annotate (`*.pdf`), and the source code (`lectures/week*`) available for each week of lecture meetings.  
+We are making the lecture slides (`*.html`), notes for you to bring to class to annotate (`*.pdf`), and the source code (`lectures/week*`) available for each week of lecture meetings.  Note that the links will point to this page until the material is posted.
 
 
 Week | HTML Slides | Notes | Source
