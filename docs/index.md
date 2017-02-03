@@ -12,4 +12,4 @@ A detailed syllabus, which includes grading and administrative detials, can be f
 
 This web site contains links and information on the [text books](./books/) and [software](./software/) that we will use, [lecture materials](./lectures/), the [schedule](./schedule/), and [web resources](./resources/). 
 
-We will also be posting the [lecture notes](https://github.com/jdstorey/asdscourse/tree/master/lectures).  The primary content of this course is under version control and openly available at our [GitHub](https://github.com/jdstorey/asdscourse) site.
+We will also be posting the [lecture notes](https://github.com/jdstorey/asdslectures).  The primary content of this course is under version control and openly available at our [GitHub](https://github.com/jdstorey/asdscourse) site.
