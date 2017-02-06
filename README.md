@@ -14,8 +14,5 @@ There are three directories of interest in this repo:
 
 - `docs/`:  the source code for the course web site
 - `homework/`: the materials for the homework sets
-- `lectures/`: the source code for the lecture slides
-
-The `lectures/` directory may be of particular interest because it gives you access to the R code that is used during lectures.
 
 Feel free to "watch" this repo so that you're notified whenever it is updated.
