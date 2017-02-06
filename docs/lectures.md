@@ -8,7 +8,7 @@ We are making the lecture slides (`*.html`) available, as well as notes for you 
 
 Week | HTML Slides | Notes
 -----|-------------| -----
-1 | [week1.html]() | [week1_notes.pdf]()
+1 | [week1.html](https://jdstorey.github.io/asdslectures/week01.html) | [week1_notes.pdf](https://jdstorey.github.io/asdslectures/week01_notes.pdf)
 
 
 The materials from the lecture slides will also be included in book format at [https://jdstorey.github.io/asdsbook/](https://jdstorey.github.io/asdsbook/).
