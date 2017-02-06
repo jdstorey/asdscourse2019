@@ -41,4 +41,13 @@ R4DS | [R for Data Science](http://r4ds.had.co.nz)
 - Please obtain the most recent version of ESL from the authors' [web site](http://statweb.stanford.edu/~tibs/ElemStatLearn/).
 - R4DS chapter numbers refer to those at <http://r4ds.had.co.nz>, *NOT* the printed book chapter numbers.
 
+## Homework due dates
 
+| Assignment    | Due | 
+| --------------|---------------------|
+| Homework 1    | 11:59PM on Feb. 23  |
+| Homework 2    | 11:59PM on Mar. 9   | 
+| Homework 3    | 11:59PM on Mar. 30  | 
+| Homework 4    | 11:59PM on Apr. 13  | 
+| Homework 5    | 11:59PM on Apr. 27  | 
+| Final Project | 11:59PM on May 16   |
