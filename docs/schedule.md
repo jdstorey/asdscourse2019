@@ -11,9 +11,9 @@ title: Schedule
 
 |  Week  | Topic(s) | Reading |
 | :----: | -------- | ------: |
-| 1 | Introduction | R4DS Ch. 1 <br> DALS Ch. "Getting Started" |
-| 2 | Tidy Data | R4DS Ch. 9-21 |
-| 3 | Exploratory Data Analysis | R4DS Ch. 2-8 <br> DALS Ch. "Exploratory Data Analysis" |
+| 1 | Introduction | R4DS Ch. 1, 4, 6, 8, 17-21 <br> DALS Ch. "Getting Started" |
+| 2 | Tidy Data | R4DS Ch. 5, 9-16 |
+| 3 | Exploratory Data Analysis | R4DS Ch. 2, 3, 7 <br> DALS Ch. "Exploratory Data Analysis" |
 | 4 | Random Variables and Likelihood | AOS Ch. 2-3, 9.3.13 |
 | 5 | Frequentist Inference | AOS Ch. 9-10 |
 | 6 | Bayesian Inference | AOS Ch. 11 |
