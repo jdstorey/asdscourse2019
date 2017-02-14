@@ -12,12 +12,12 @@ title: Schedule
 |  Week  | Topic(s) | Reading |
 | :----: | -------- | ------: |
 | 1 | Introduction | R4DS Ch. 1, 4, 6, 8, 17-21 <br> DALS Ch. "Getting Started" |
-| 2 | Tidy Data | R4DS Ch. 5, 9-16 |
+| 2 | Data Wrangling | R4DS Ch. 5, 9-16 |
 | 3 | Exploratory Data Analysis | R4DS Ch. 2, 3, 7 <br> DALS Ch. "Exploratory Data Analysis" |
 | 4 | Random Variables and Likelihood | AOS Ch. 2-3, 9.3.13 |
 | 5 | Frequentist Inference | AOS Ch. 9-10 |
 | 6 | Bayesian Inference | AOS Ch. 11 |
-| 7 | EM Algorithm | ESL Ch. 8.5 |
+| 7 | Numerical Methods for Likelihood | ESL Ch. 8.5 |
 | 8 | Data Resampling | AOS Ch. 10.5 <br> NPS Ch. 2-3 |
 | 9 | Statistical Modeling | AOS Ch. 13 <br> DALS Ch. "Linear Models" |
 | 10 | Statistical Modeling | ESL Ch. 5.1-5.6, 7, 9.1 <br> NPS Ch. 4.1-4.3, 5.1-5.5|
