@@ -1,4 +1,4 @@
-# scrapped county level data from townhall.com
+# scraped county level data from townhall.com
 # original idea to scrape comes from https://github.com/tonmcg/County_Level_Election_Results_12-16/
 # this version results in a dataset more appropriate for the course
 
