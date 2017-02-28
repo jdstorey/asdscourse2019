@@ -11,6 +11,7 @@ Week | HTML Slides | Notes
 1 | [week01.html](https://jdstorey.github.io/asdslectures/week01.html) | [week01_notes.pdf](https://jdstorey.github.io/asdslectures/week01_notes.pdf)
 2 | [week02.html](https://jdstorey.github.io/asdslectures/week02.html) | [week02_notes.pdf](https://jdstorey.github.io/asdslectures/week02_notes.pdf)
 3 | [week03.html](https://jdstorey.github.io/asdslectures/week03.html) | [week03_notes.pdf](https://jdstorey.github.io/asdslectures/week03_notes.pdf)
+4 | [week04.html](https://jdstorey.github.io/asdslectures/week04.html) | [week04_notes.pdf](https://jdstorey.github.io/asdslectures/week04_notes.pdf)
 
 
 The materials from the lecture slides will also eventually be included in book format at [https://jdstorey.github.io/asdsbook/](https://jdstorey.github.io/asdsbook/).
