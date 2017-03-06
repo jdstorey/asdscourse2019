@@ -14,14 +14,14 @@ title: Schedule
 | 1 | Introduction | R4DS Ch. 1, 4, 6, 8, 17-21 <br> DALS Ch. "Getting Started" |
 | 2 | Data Wrangling | R4DS Ch. 5, 9-16 |
 | 3 | Exploratory Data Analysis | R4DS Ch. 2, 3, 7 <br> DALS Ch. "Exploratory Data Analysis" |
-| 4 | Random Variables and Likelihood | AOS Ch. 2-3, 9.3 <br> Optional: AOS Ch. 1 |
-| 5 | Frequentist Inference | AOS Ch. 9-10 |
+| 4 | Random Variables and Likelihood | AOS Ch. 2-3, 9.3, 9.13.2, 9.13.3 <br> Optional: AOS Ch. 1 |
+| 5 | Frequentist Inference | AOS Ch. 9, 10.1-10.4, 10.6, 10.8-10.10 |
 | 6 | Bayesian Inference | AOS Ch. 11 |
-| 7 | Numerical Methods for Likelihood | ESL Ch. 8.5 |
-| 8 | Data Resampling | AOS Ch. 10.5 <br> NPS Ch. 2-3 |
+| 7 | Numerical Methods for Likelihood | AOS 9.13.4 <br> ESL Ch. 8.5 |
+| 8 | Nonparametric Inference | AOS Ch. 9.2, 10.5 <br> NPS Ch. 2-3 |
 | 9 | Statistical Modeling | AOS Ch. 13 <br> DALS Ch. "Linear Models" |
 | 10 | Statistical Modeling | ESL Ch. 5.1-5.6, 7, 9.1 <br> NPS Ch. 4.1-4.3, 5.1-5.5|
-| 11 | Simultaneous Inference | AOS Ch. 12.7 <br> DALS Ch. "Inference for HD Data" <br> [Stigler (1990)](http://projecteuclid.org/euclid.ss/1177012274) <br> [Storey and Tibshirani (2003)](http://www.pnas.org/content/100/16/9440.full) |
+| 11 | Simultaneous Inference | AOS Ch. 10.7, 12.7 <br> DALS Ch. "Inference for HD Data" <br> [Stigler (1990)](http://projecteuclid.org/euclid.ss/1177012274) <br> [Storey and Tibshirani (2003)](http://www.pnas.org/content/100/16/9440.full) |
 | 12 | Dimension Reduction and Latent Variable Models | DALS Ch. "Distance and Dimension Reduction" <br> DALS Ch. "Basic ML: Clustering" <br> [Leek and Storey (2007)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161) |
 
 ## Text book abbreviations used above
