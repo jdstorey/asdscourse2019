@@ -50,4 +50,4 @@ R4DS | [R for Data Science](http://r4ds.had.co.nz)
 | Homework 3    | 11:59PM on Mar. 30  | 
 | Homework 4    | 11:59PM on Apr. 13  | 
 | Homework 5    | 11:59PM on Apr. 27  | 
-| Final Project | 5:00PM on May 16   |
+| Final Project | 5:00PM on May 16    |
