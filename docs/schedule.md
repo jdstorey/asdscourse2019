@@ -25,7 +25,7 @@ title: Schedule
 | 12 | Latent Variable Models | 
 
   
-  
+---
 
 ## Details
 
@@ -102,6 +102,8 @@ R4DS | [R for Data Science](http://r4ds.had.co.nz)
 - DALS chapter titles refer to those from the [Leanpub](https://leanpub.com/dataanalysisforthelifesciences) edition.
 - Please obtain the most recent version of ESL from the authors' [web site](http://statweb.stanford.edu/~tibs/ElemStatLearn/).
 - R4DS chapter numbers refer to those at <http://r4ds.had.co.nz>, *NOT* the printed book chapter numbers.
+
+---
 
 ## Homework due dates
 
