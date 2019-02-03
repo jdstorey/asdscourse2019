@@ -9,10 +9,9 @@ title: Resources
 
 - GitHub
     - [Course Web Site](https://github.com/jdstorey/asdscourse)
-    - [Lecture Materials](https://github.com/jdstorey/asdslectures)
-    - [Book](https://github.com/jdstorey/asdsbook)
-- [Blackboard](https://blackboard.princeton.edu/webapps/pu-courseredirect-bb_bb60/find.jsp?course_id=QCB508_S2017)
-- [Piazza](https://piazza.com/)
+    - [Book](https://github.com/jdstorey/fas)
+- [Blackboard](https://blackboard.princeton.edu/webapps/pu-courseredirect-bb_bb60/find.jsp?course_id=QCB408-QCB508_S2019)
+- [Piazza](https://piazza.com/princeton/spring2019/qcb408508)
 
 ---
 
