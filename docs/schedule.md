@@ -42,45 +42,7 @@ Reading: Parts I and II of FAS
 
 Supplemental Reading: R4DS Ch. 1, 4, 6, 8, 17-21; DALS Ch. "Getting Started"
 
-### Week 2
-
-TBA
-
-### Week 3
-
-TBA
-
-### Week 4
-
-TBA
-
-### Week 5
-
-TBA
-
-### Week 6
-
-TBA
-
-### Week 7
-
-TBA
-
-### Week 8
-
-TBA
-
-### Week 9
-
-TBA
-
-### Week 10
-
-TBA
-
-### Week 11
-
-### Week 12
+### Weeks 2-12
 
 TBA
 
