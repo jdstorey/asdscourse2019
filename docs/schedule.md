@@ -5,7 +5,7 @@ title: Schedule
 
 ---
 
-## Schedule of Topics
+## Summary
 
 *This schedule is subject to change, so please check it regularly.  We will notify the class of changes that affect the upcoming week or any other major changes...*
 
@@ -24,8 +24,10 @@ title: Schedule
 | 11 | High-Dimensional Inference | 
 | 12 | Latent Variable Models | 
 
+  
+  
 
-## Detailed schedule of topics and readings
+## Details
 
 ### Week 1
 
