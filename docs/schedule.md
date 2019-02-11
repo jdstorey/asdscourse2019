@@ -42,7 +42,20 @@ Reading: Parts I and II of FAS
 
 Supplemental Reading: R4DS Ch. 1, 4, 6, 8, 17-21; DALS Ch. "Getting Started"
 
-### Weeks 2-12
+### Week 2   
+
+Topics:  
+
+- Exploratory Data Analysis overview
+- Quantitative summaries of data
+- Data visualization
+- Principal components analysis (dimension reduction)
+
+Reading: Part IV of FAS  
+
+Supplemental Reading: R4DS Ch. 2, 3, 7; DALS Ch. “Exploratory Data Analysis”    
+
+### Weeks 3-12
 
 TBA
 
