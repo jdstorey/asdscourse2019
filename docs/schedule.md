@@ -55,7 +55,21 @@ Reading: Part IV of FAS
 
 Supplemental Reading: R4DS Ch. 2, 3, 7; DALS Ch. “Exploratory Data Analysis”    
 
-### Weeks 3-12
+### Week 3
+
+Topics:
+
+- Probability
+- Random variables
+- Probability distributions
+- Likelihood 
+- Exponential family distributions
+
+Reading: Part V of FAS  
+
+Supplemental Reading: AOS Ch. 1-3, 9.3, 9.13.2, 9.13.3  
+
+### Weeks 4-12
 
 TBA
 
