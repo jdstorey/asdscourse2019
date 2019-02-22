@@ -5,7 +5,7 @@ title: Lectures
 
 - Week 1 [PDF](./lecture_notes/week1.pdf)
 - Week 2 [PDF](./lecture_notes/week2.pdf)
-- Week 3
+- Week 3 [PDF](./lecture_notes/week3.pdf)
 - Week 4
 - Week 5
 - Week 6
