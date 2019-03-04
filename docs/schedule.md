@@ -69,7 +69,34 @@ Reading: Part V of FAS
 
 Supplemental Reading: AOS Ch. 1-3, 9.3, 9.13.2, 9.13.3  
 
-### Weeks 4-12
+### Week 4
+
+Topics:
+
+- Data wrangling
+- Tidy data
+- `dplyr` package
+
+Reading: Part II of FAS
+
+Supplemental Reading: R4DS Ch. 5, 9-16
+
+### Week 5
+
+Topics:
+
+- Frequentist inference
+- Hypothesis testing
+- Point estimation
+- Maximum likelihood estimation
+- Exponential family distributions
+
+Reading: Part VI of FAS
+
+Supplemental Reading: AOS Ch. 9, 10.1-10.4, 10.6, 10.8-10.10
+
+
+### Weeks 6-12
 
 TBA
 
