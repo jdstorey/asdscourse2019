@@ -77,7 +77,7 @@ Topics:
 - Tidy data
 - `dplyr` package
 
-Reading: Part II of FAS
+Reading: Part III of FAS
 
 Supplemental Reading: R4DS Ch. 5, 9-16
 
