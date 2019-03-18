@@ -95,8 +95,20 @@ Reading: Part VI of FAS
 
 Supplemental Reading: AOS Ch. 9, 10.1-10.4, 10.6, 10.8-10.10
 
+### Week 6
 
-### Weeks 6-12
+Topics:
+
+- Bayesian inference
+- Estimation
+- Classification
+- Prior distributions
+
+Reading: Part VII of FAS
+
+Supplemental Reading: AOS Ch. 11
+
+### Weeks 7-12
 
 TBA
 
