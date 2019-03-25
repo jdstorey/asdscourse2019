@@ -108,7 +108,21 @@ Reading: Part VII of FAS
 
 Supplemental Reading: AOS Ch. 11
 
-### Weeks 7-12
+### Week 7
+
+Topics:
+
+- Likelihood based hypothesis testing (catch-up from last week)
+- Numerical methods for likelihoods
+- EM algorithm
+- Markov chain Monte Carlo
+
+Reading: Part VIII of FAS
+
+Supplemental Reading: AOS 9.13.4, ESL Ch. 8.5, [van Ravenzwaaij et al. (2016)](http://link.springer.com/article/10.3758/s13423-016-1015-8)
+
+
+### Weeks 8-12
 
 TBA
 
