@@ -122,7 +122,21 @@ Reading: Part VIII of FAS
 Supplemental Reading: AOS 9.13.4, ESL Ch. 8.5, [van Ravenzwaaij et al. (2016)](http://link.springer.com/article/10.3758/s13423-016-1015-8)
 
 
-### Weeks 8-12
+### Week 8
+
+Topics:  
+
+- Nonparametric statistics
+- Empirical distribution functions
+- Bootstrap
+- Permutation methods
+- Goodness of fit
+
+Reading: Part IX of FAS
+
+Supplemental Reading: AOS Ch. 9.2 and 10.5, NPS Ch. 2-3
+
+### Weeks 9-12
 
 TBA
 
