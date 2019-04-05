@@ -10,7 +10,7 @@ title: Lectures
 - Week 5 [PDF](./lecture_notes/week5.pdf)
 - Week 6 [PDF](./lecture_notes/week6.pdf)
 - Week 7 [PDF](./lecture_notes/week7.pdf)
-- Week 8 [PDF](./lecture_notes/week7.pdf)
+- Week 8 [PDF](./lecture_notes/week8.pdf)
 - Week 9
 - Week 10
 - Week 11
