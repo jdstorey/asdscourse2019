@@ -136,7 +136,20 @@ Reading: Part IX of FAS
 
 Supplemental Reading: AOS Ch. 9.2 and 10.5, NPS Ch. 2-3
 
-### Weeks 9-12
+### Week 9
+
+Topics:
+
+- Statistical modeling
+- Simple linear regression
+- Ordinary least squares
+- Generalized least squares
+
+Reading: Part X, Chapters 65-74, of FAS
+
+Supplemental Reading: AOS Ch. 13, DALS Ch. "Linear Models"
+
+### Weeks 10-12
 
 TBA
 
