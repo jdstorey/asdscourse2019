@@ -12,7 +12,7 @@ title: Lectures
 - Week 7 [PDF](./lecture_notes/week7.pdf)
 - Week 8 [PDF](./lecture_notes/week8.pdf)
 - Week 9 [PDF](./lecture_notes/week9.pdf)
-- Week 10
+- Week 10 [PDF](./lecture_notes/week10.pdf)
 - Week 11
 - Week 12
 
