@@ -162,8 +162,21 @@ Reading: Part X, Chapters 65-74, of FAS
 
 Supplemental Reading: ESL Ch. 5.1-5.6, 7, 9.1; NPS Ch. 4.1-4.3, 5.1-5.5
 
+### Week 11
 
-### Weeks 11-12
+Topics:
+
+- High-dimensional data and models
+- Shrinkage and empirical Bayes
+- False discovery rates
+- Ridge regression
+- Lasso regression
+
+Reading: Part XI of FAS
+
+Supplemental Reading: AOS Ch. 10.7, 12.7; DALS Ch. "Inference for HD Data"; [Stigler (1990)](http://projecteuclid.org/euclid.ss/1177012274); [Storey and Tibshirani (2003)](http://www.pnas.org/content/100/16/9440.full)
+
+### Week 12
 
 TBA
 
