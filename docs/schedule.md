@@ -178,8 +178,16 @@ Supplemental Reading: AOS Ch. 10.7, 12.7; DALS Ch. "Inference for HD Data"; [Sti
 
 ### Week 12
 
-TBA
+Topics:
 
+- Causal inference
+- High-dimensional latent variable models
+- Jackstraw
+- Surrogate variable analysis
+
+Reading: Part XII of FAS
+
+Supplemental Reading: [Chung and Storey (2014)](https://dx.doi.org/10.1093/bioinformatics/btu674); [Leek and Storey (2007)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161)
 
 ## Text book abbreviations used above
 
