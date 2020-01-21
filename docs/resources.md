@@ -8,7 +8,7 @@ title: Resources
 ## Course Web Sites
 
 - GitHub
-    - [Course Web Site](https://github.com/jdstorey/asdscourse)
+    - [Course Web Site](https://github.com/jdstorey/asdscourse2019)
     - [Book](https://github.com/jdstorey/fas)
 - [Blackboard](https://blackboard.princeton.edu/webapps/pu-courseredirect-bb_bb60/find.jsp?course_id=QCB408-QCB508_S2019)
 - [Piazza](https://piazza.com/princeton/spring2019/qcb408508)

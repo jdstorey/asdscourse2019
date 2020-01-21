@@ -6,11 +6,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            QCB 508
+title:            QCB 508 | Spring 2019
 tagline:          "QCB 508 | Princeton University"
-description:      "<a href='https://jdstorey.github.io/asdscourse/'>Foundations of Applied Statistics and Data Science with Applications in Biology</a>" 
+description:      "<a href='https://jdstorey.github.io/asdscourse2019/'>Foundations of Applied Statistics and Data Science with Applications in Biology</a>" 
 url:              https://jdstorey.github.io
-baseurl:          /asdscourse
+baseurl:          /asdscourse2019
 
 author:
   name:           'John Storey'
